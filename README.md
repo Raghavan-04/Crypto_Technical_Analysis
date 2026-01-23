@@ -1,5 +1,5 @@
 
-# 📊 FOCUS: Delta & Thetha Analyzer
+# 📊 FOCUS: Delta & Theta Analyzer
 
 **FOCUS** is a high-frequency trading dashboard designed to visualize institutional options flow, Greek exposure, and market sentiment in real-time. It bridges the gap between raw options chain data and actionable trading signals by calculating metrics like **Max Pain**, **Gamma Exposure**, and **Net Delta** on the fly.
 
