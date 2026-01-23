@@ -17,7 +17,7 @@
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/focus-analyzer.git
+git clone https://github.com/Raghavan-04/Crypto_BTC_Technical_Analysis.git
 cd focus-analyzer
 
 ```
