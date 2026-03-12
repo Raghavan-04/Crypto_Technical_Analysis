@@ -106,4 +106,4 @@ The GUI is divided into 8 strategic panels:
 
 ## ⚠️ Disclaimer
 
-This software is for **educational and research purposes only**. It does not constitute financial advice. Option Greeks and Open Interest data are lagging indicators and should not be the sole basis for real-money trading decisions.
+This software is for **educational and research purposes only**. It does not constitute financial advice.This model is still under-test and should not be the sole basis for real-money trading decisions.
